@@ -23,6 +23,7 @@ com.epam.benchmarks.Height1000_Width1000_Alive500000_Iterations500
 |     Team    | Mode | Count |  Score | Error | Units |
 |-------------|:----:|:-----:|:------:|:-----:|:-----:|
 | Java++      | avgt |   30  |  0.086 | 0.002 |  s/op |
+| Gears       | avgt |   30  |  1.705 | 0.021 |  s/op |
 | Survivors   | avgt |   30  |  1.895 | 0.018 |  s/op |
 | Sweet_life  | avgt |   30  |  3.145 | 0.125 |  s/op |
 | Hello World | avgt |   30  | 15.726 | 2.324 |  s/op |
@@ -34,6 +35,7 @@ com.epam.benchmarks.Height10000_Width100_Alive500000_Iterations250
 |     Team    | Mode | Count | Score | Error | Units |
 |-------------|:----:|:-----:|:-----:|:-----:|:-----:|
 | Java++      | avgt |   30  | 0.154 | 0.001 |  s/op |
+| Gears       | avgt |   30  | 1.019 | 0.014 |  s/op |
 | Survivors   | avgt |   30  | 1.093 | 0.054 |  s/op |
 | Sweet_life  | avgt |   30  | 1.624 | 0.024 |  s/op |
 | Hello World | avgt |   30  | 7.592 | 1.225 |  s/op |
@@ -46,6 +48,7 @@ com.epam.benchmarks.Height100_Width10000_Alive500000_Iterations250
 |-------------|:----:|:-----:|:-----:|:-----:|:-----:|
 | Java++      | avgt |   30  | 0.142 | 0.002 |  s/op |
 | Survivors   | avgt |   30  | 0.965 | 0.007 |  s/op |
+| Gears       | avgt |   30  | 1.020 | 0.017 |  s/op |
 | Sweet_life  | avgt |   30  | 1.890 | 0.057 |  s/op |
 | Hello World | avgt |   30  | 7.582 | 1.373 |  s/op |
 
@@ -57,6 +60,7 @@ com.epam.benchmarks.Height1000_Width1000_Glider_Iterations1000
 |-------------|:----:|:-----:|:-----:|:-----:|:-----:|
 | Hello World | avgt |   30  | 0.008 | 0.001 |  s/op |
 | Java++      | avgt |   30  | 0.167 | 0.002 |  s/op |
+| Survivors   | avgt |   30  | 1.738 | 0.006 |  s/op |
 | Survivors   | avgt |   30  | 2.887 | 0.020 |  s/op |
 | Sweet_life  | avgt |   30  | 5.244 | 0.177 |  s/op |
 
@@ -67,6 +71,7 @@ com.epam.benchmarks.Height9_Width11_Tumbler_Iterations5000
 |     Team    | Mode | Count | Score | Error | Units |
 |-------------|:----:|:-----:|:-----:|:-----:|:-----:|
 | Hello World | avgt |   30  | 0.051 | 0.007 | ms/op |
+| Gears       | avgt |   30  | 1.469 | 0.008 | ms/op |
 | Survivors   | avgt |   30  | 2.085 | 0.068 |  s/op |
 | Java++      | avgt |   30  | 2.581 | 0.017 |  s/op |
 | Sweet_life  | avgt |   30  |   SO  |   SO  |  s/op |
@@ -78,6 +83,7 @@ com.epam.benchmarks.Height11_Width18_Line_Iterations5000
 |     Team    | Mode | Count | Score | Error | Units |
 |-------------|:----:|:-----:|:-----:|:-----:|:-----:|
 | Hello World | avgt |   30  | 0.056 | 0.001 | ms/op |
+| Gears       | avgt |   30  | 2.727 | 0.019 | ms/op |
 | Survivors   | avgt |   30  | 2.000 | 0.021 |  s/op |
 | Java++      | avgt |   30  | 2.459 | 0.016 |  s/op |
 | Sweet_life  | avgt |   30  |   SO  |   SO  |  s/op |
@@ -88,6 +94,7 @@ com.epam.benchmarks.Height100_Width100_Alive5000_Iterations5000
 
 |     Team    | Mode | Count | Score | Error | Units |
 |-------------|:----:|:-----:|:-----:|:-----:|:-----:|
+| Gears       | avgt |   30  | 0.097 | 0.001 |  s/op |
 | Sweet_life  | avgt |   30  | 0.421 | 0.009 |  s/op | <- Unstable
 | Hello World | avgt |   30  | 1.052 | 0.115 |  s/op |
 | Survivors   | avgt |   30  | 2.223 | 0.123 |  s/op |
