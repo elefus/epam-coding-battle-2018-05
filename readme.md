@@ -60,7 +60,7 @@ com.epam.benchmarks.Height1000_Width1000_Glider_Iterations1000
 |-------------|:----:|:-----:|:-----:|:-----:|:-----:|
 | Hello World | avgt |   30  | 0.008 | 0.001 |  s/op |
 | Java++      | avgt |   30  | 0.167 | 0.002 |  s/op |
-| Survivors   | avgt |   30  | 1.738 | 0.006 |  s/op |
+| Gears       | avgt |   30  | 1.738 | 0.006 |  s/op |
 | Survivors   | avgt |   30  | 2.887 | 0.020 |  s/op |
 | Sweet_life  | avgt |   30  | 5.244 | 0.177 |  s/op |
 
